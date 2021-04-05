@@ -1,0 +1,208 @@
+{
+    "cities":[
+      {
+        "id": 1,
+        "CODE": "HARF",
+        "MUNICIPALITY": "ABERDEEN",
+        "POPULATION":15848
+      },
+      {
+        "id": 2,
+        "CODE": "GARR",
+        "MUNICIPALITY": "ACCIDENT",
+        "POPULATION":335
+
+      },
+      {
+        "id": 3,
+        "CODE": "ANNE",
+        "MUNICIPALITY": "ANNAPOLIS",
+        "POPULATION":39278
+
+      },
+      {
+        "id": 4,
+        "CODE": "BACI",
+        "MUNICIPALITY": "BALTIMORE CITY",
+        "POPULATION":609032
+
+      },
+      {
+        "id": 5,
+        "CODE": "QUEE",
+        "MUNICIPALITY": "BARCLAY",
+        "POPULATION":275
+
+      },
+      {
+        "id": 6,
+        "CODE": "MONT",
+        "MUNICIPALITY": "BARNESVILLE",
+        "POPULATION":125
+
+      },
+      {
+        "id": 7,
+        "CODE": "ALLE",
+        "MUNICIPALITY": "BARTON",
+        "POPULATION":441
+
+      },
+      {
+        "id": 8,
+        "CODE": "HARF",
+        "MUNICIPALITY": "BEL AIR",
+        "POPULATION":48425
+
+      },
+      {
+        "id": 9,
+        "CODE": "WORC",
+        "MUNICIPALITY": "BERLIN",
+        "POPULATION":15848
+
+      },
+      {
+        "id": 10,
+        "CODE": "PRIN",
+        "MUNICIPALITY": "BERWYN HEIGHTS",
+        "POPULATION":	3273
+
+      },
+      {
+        "INDEX": 11,
+        "CODE": "KENT",
+        "MUNICIPALITY": "BETTERTON","POPULATION":39278
+      },
+      {
+        "INDEX": 12,
+        "CODE": "PRIN",
+        "MUNICIPALITY": "BLADENSBURG","POPULATION":39278
+      },
+      {
+        "INDEX": 13,
+        "CODE": "WASH",
+        "MUNICIPALITY": "BOONSBORO","POPULATION":39278
+      },
+      {
+        "INDEX": 14,
+        "CODE": "PRIN",
+        "MUNICIPALITY": "BOWIE","POPULATION":39278
+      },
+      {
+        "INDEX": 15,
+        "CODE": "PRIN",
+        "MUNICIPALITY": "BRENTWOOD","POPULATION":39278
+      },
+      {
+        "INDEX": 16,
+        "CODE": "MONT",
+        "MUNICIPALITY": "BROOKEVILLE","POPULATION":39278
+      },
+      {
+        "INDEX": 17,
+        "CODE": "DORC",
+        "MUNICIPALITY": "BROOKVIEW","POPULATION":39278
+      },
+      {
+        "INDEX": 18,
+        "CODE": "FRED",
+        "MUNICIPALITY": "BRUNSWICK","POPULATION":39278
+      },
+      {
+        "INDEX": 19,
+        "CODE": "FRED",
+        "MUNICIPALITY": "BURKITTSVILLE","POPULATION":39278
+      },
+      {
+        "INDEX": 20,
+        "CODE": "DORC",
+        "MUNICIPALITY": "CAMBRIDGE","POPULATION":12375
+      },
+      {
+        "INDEX": 21,
+        "CODE": "PRIN",
+        "MUNICIPALITY": "CAPITOL HEIGHTS","POPULATION":39278
+      },
+      {
+        "INDEX": 22,
+        "CODE": "CECI",
+        "MUNICIPALITY": "CECILTON",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 23,
+        "CODE": "QUEE",
+        "MUNICIPALITY": "CENTREVILLE",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 24,
+        "CODE": "CECI",
+        "MUNICIPALITY": "CHARLESTOWN",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 25,
+        "CODE": "CALV",
+        "MUNICIPALITY": "CHESAPEAKE BEACH",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 26,
+        "CODE": "CECI",
+        "MUNICIPALITY": "CHESAPEAKE CITY",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 27,
+        "CODE": "KENT",
+        "MUNICIPALITY": "CHESTERTOWN",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 28,
+        "CODE": "PRIN",
+        "MUNICIPALITY": "CHEVERLY",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 29,
+        "CODE": "MONT",
+        "MUNICIPALITY": "CHEVY CHASE SECTION 3",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 30,
+        "CODE": "MONT",
+        "MUNICIPALITY": "CHEVY CHASE SECTION 5",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 31,
+        "CODE": "MONT",
+        "MUNICIPALITY": "CHEVY CHASE TOWN",
+        "POPULATION":15848
+
+      },
+      {
+        "INDEX": 32,
+        "CODE": "MONT",
+        "MUNICIPALITY": "CHEVY CHASE VIEW",
+        "POPULATION":15848
+
+      }
+    ]
+       
+}
+
+

@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  purple-cow:
+    container_name: project-purple-cow
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+    ports:
+      - ${SITE_PORT}:3000
